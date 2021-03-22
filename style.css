@@ -1,0 +1,33 @@
+li {
+  padding: 0.5%;
+  margin: 0.5%;
+  background-color: #000000;
+  border: 2px solid #fdff76;
+  display: inline-block;
+  cursor: pointer;
+  color: rgb(255, 255, 255);
+  font-family: Arial;
+  font-size: 17px;
+  padding: 10px 60px;
+  text-decoration: none;
+  text-shadow: 0px 0px 12px #9e9841;
+  width: 50%;
+  height: 100%;
+}
+
+.karak,
+.info {
+  width: 500px;
+}
+
+body {
+  background: url(https://i.imgur.com/QZ8knnf.jpeg);
+}
+
+h2 {
+  color: white;
+  -webkit-text-stroke-color: black;
+  -webkit-text-stroke-width: 1px;
+  font-size: 80px;
+  margin-left: 50px;
+}
